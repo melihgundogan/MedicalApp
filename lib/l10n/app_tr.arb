@@ -1,0 +1,18 @@
+{
+    "virtual": "Sanal",
+    "ecosystem": "Ekosistem.",
+    "get_started": "Başlayın",
+    "onboard_info_text": "Tek bir teknoloji platformunda,herkes için her yerden\nerişimi kolaylaştıran özel sağlık hizmetleri",
+    "medical_app": "Tıbbı Mobil Uygulama",
+    "upcoming_consultation": "Yaklaşan görüşmeler",
+    "patient_profile": "Hasta profilleri",
+    "join_the_call": "Görüşmeye katıl",
+    "wait_for_call": "Aramayı bekle",
+    "last_enquiries": "Son arananlar",
+    "reports": "Raporlar",
+    "home": "Ana sayfa",
+    "profile": "Profil",
+    "calender": "Takvim",
+    "notification": "Bildirim",
+    "welcome_back": "Tekrak hoşgeldiniz"
+}
